@@ -1,0 +1,4 @@
+# photography-website
+used html,php,css.
+Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. This Photography website includes the great monuments, popular places, heritage rich sites of India. The Gallery comprises breathtaking views or pictures of various historical places, monuments, culture, heritage rich sites. This site is user-friendly and provides a download option to get the images user liked. This website involves the documentation of an area's landscape, people, cultures, customs, and history. The purpose of the Photography website is to provide user-friendly and fulfill the requirements of the users so that data/information can be accessed easily without any manipulation. 
+
